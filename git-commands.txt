@@ -8,3 +8,6 @@ git log
 git push
 git pull
 git conif 
+
+
+EDITING FILE FROM GITHUB 
