@@ -1,0 +1,10 @@
+git init
+git clone <url>
+git add <your_file_name>
+git add .
+git commit -m "message"
+git status
+git log
+git push
+git pull
+git conif 
